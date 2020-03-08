@@ -1,0 +1,2 @@
+parImpar.ParImpar
+jogoParOuImpar.JogoParOuImpar
